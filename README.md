@@ -1,2 +1,2 @@
 # Turtle_crossing
-Animal Crossing like with my own twist
+Animal Crossing like, using python turtle module
